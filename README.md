@@ -33,8 +33,8 @@ IBMPROJECT/
 ```
 ## Installation
 1. Clone the repository:    
-   git clone https://github.com/Sachinh123/Cognitive-Customer-Insights-with-Watson-AI.git
-   cd Cognitive-Customer-Insights-with-Watson-AI
+   - git clone https://github.com/Sachinh123/Cognitive-Customer-Insights-with-Watson-AI.git
+   - cd Cognitive-Customer-Insights-with-Watson-AI
 
 2. Set up a virtual environment:
    python3 -m venv venv
