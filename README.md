@@ -15,7 +15,7 @@ and optimize support mechanisms.
 - IBM Services: IBM Watson NLU, IBM Watson Assistant, IBM Cloud 
 
 ## Project Structure
-
+``` bash
 IBMPROJECT/
 │-- data/
 │   │-- data.csv
@@ -30,7 +30,7 @@ IBMPROJECT/
 │-- app.py
 │-- config.py
   │-- README.md
-
+```
 ## Installation
 1. Clone the repository:    
    git clone https://github.com/Sachinh123/Cognitive-Customer-Insights-with-Watson-AI.git
